@@ -1,0 +1,14 @@
+Z:\lab04\lab04.projet\obj\Debug\net10.0\lab04.projet.GeneratedMSBuildEditorConfig.editorconfig
+Z:\lab04\lab04.projet\obj\Debug\net10.0\lab04.projet.AssemblyInfoInputs.cache
+Z:\lab04\lab04.projet\obj\Debug\net10.0\lab04.projet.AssemblyInfo.cs
+Z:\lab04\lab04.projet\obj\Debug\net10.0\lab04.projet.csproj.CoreCompileInputs.cache
+Z:\lab04\lab04.projet\bin\Debug\net10.0\lab04.projet.exe
+Z:\lab04\lab04.projet\bin\Debug\net10.0\lab04.projet.deps.json
+Z:\lab04\lab04.projet\bin\Debug\net10.0\lab04.projet.runtimeconfig.json
+Z:\lab04\lab04.projet\bin\Debug\net10.0\lab04.projet.dll
+Z:\lab04\lab04.projet\bin\Debug\net10.0\lab04.projet.pdb
+Z:\lab04\lab04.projet\obj\Debug\net10.0\lab04.projet.dll
+Z:\lab04\lab04.projet\obj\Debug\net10.0\refint\lab04.projet.dll
+Z:\lab04\lab04.projet\obj\Debug\net10.0\lab04.projet.pdb
+Z:\lab04\lab04.projet\obj\Debug\net10.0\lab04.projet.genruntimeconfig.cache
+Z:\lab04\lab04.projet\obj\Debug\net10.0\ref\lab04.projet.dll
